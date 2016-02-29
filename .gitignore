@@ -1,20 +1,19 @@
+utogenerated VS/MD solution and project files
+ExportedObj/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
 
-*.bin
-*.meta
-*.o
-autom4te.cache
-config.*
-configure
-depcomp
-install-sh
-libtool
-ltmain.sh
-Makefile
-Makefile.in
-missing
-stamp-h1
-assignment2
-compile
-*~
-.nfs*
-Ogre.log
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
